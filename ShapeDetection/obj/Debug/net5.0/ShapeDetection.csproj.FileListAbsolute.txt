@@ -1,0 +1,16 @@
+D:\School\Englympics\ShapeDetection\ShapeDetection\bin\Debug\net5.0\ShapeDetection.exe
+D:\School\Englympics\ShapeDetection\ShapeDetection\bin\Debug\net5.0\ShapeDetection.deps.json
+D:\School\Englympics\ShapeDetection\ShapeDetection\bin\Debug\net5.0\ShapeDetection.runtimeconfig.json
+D:\School\Englympics\ShapeDetection\ShapeDetection\bin\Debug\net5.0\ShapeDetection.runtimeconfig.dev.json
+D:\School\Englympics\ShapeDetection\ShapeDetection\bin\Debug\net5.0\ShapeDetection.dll
+D:\School\Englympics\ShapeDetection\ShapeDetection\bin\Debug\net5.0\ref\ShapeDetection.dll
+D:\School\Englympics\ShapeDetection\ShapeDetection\bin\Debug\net5.0\ShapeDetection.pdb
+D:\School\Englympics\ShapeDetection\ShapeDetection\obj\Debug\net5.0\ShapeDetection.csproj.AssemblyReference.cache
+D:\School\Englympics\ShapeDetection\ShapeDetection\obj\Debug\net5.0\ShapeDetection.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\Englympics\ShapeDetection\ShapeDetection\obj\Debug\net5.0\ShapeDetection.AssemblyInfoInputs.cache
+D:\School\Englympics\ShapeDetection\ShapeDetection\obj\Debug\net5.0\ShapeDetection.AssemblyInfo.cs
+D:\School\Englympics\ShapeDetection\ShapeDetection\obj\Debug\net5.0\ShapeDetection.csproj.CoreCompileInputs.cache
+D:\School\Englympics\ShapeDetection\ShapeDetection\obj\Debug\net5.0\ShapeDetection.dll
+D:\School\Englympics\ShapeDetection\ShapeDetection\obj\Debug\net5.0\ref\ShapeDetection.dll
+D:\School\Englympics\ShapeDetection\ShapeDetection\obj\Debug\net5.0\ShapeDetection.pdb
+D:\School\Englympics\ShapeDetection\ShapeDetection\obj\Debug\net5.0\ShapeDetection.genruntimeconfig.cache
